@@ -3,15 +3,6 @@
 <br>
 <br>
 
-
-***I'm using ...***
-
-
-<img width="50px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
-
-<br>
-
-
 ***I'm good at ,***
 
 
@@ -22,6 +13,15 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=e9db4c)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=javascript&logoColor=white&color=e9db4c)
 ***
+<br>
+***I'm using ...***
+
+
+<img width="50px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
+
+<br>
+
+
 
 [![Minul](https://github-readme-stats.vercel.app/api?username=MinulSandith&show_icons=true&theme=dracula)](https://github.com/MinulSandith)
 
