@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Ruby&logoColor=white&color=f21279)
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=python&logoColor=white&color=356a97)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=e9db4c)
-
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=javascript&logoColor=white&color=e9db4c)
 ***
 
 [![Minul](https://github-readme-stats.vercel.app/api?username=MinulSandith&show_icons=true&theme=dracula)](https://github.com/MinulSandith)
