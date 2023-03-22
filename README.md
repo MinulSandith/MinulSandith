@@ -1,5 +1,5 @@
 # Hey, there! 🚀
-**I am Minul Sandith, I am a person who trying to do something outside the box.**
+**I am Minul Sandith, a young programmer who's trying to do something outside of the box.**
 <br>
 <br>
 
