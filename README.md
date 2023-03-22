@@ -12,8 +12,9 @@
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=python&logoColor=white&color=356a97)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=e9db4c)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=javascript&logoColor=white&color=e9db4c)
-***
+
 <br>
+
 ***I'm using ...***
 
 
