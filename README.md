@@ -8,6 +8,7 @@
 
 
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
+<img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/atom-icon.svg" alt="VSCode Icon" />
 <br>
 
 
