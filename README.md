@@ -25,12 +25,8 @@
 
 
 
-```JavaScript
-<h1>Hello I am Minul</h1>
-print("Hello I am Minul")
-cout("Hello I am Minul")
-```
-<br>
+
+
 
 ---
 
@@ -64,7 +60,11 @@ I am Minul Sandith, who's a young programmer writting codes to build amazing stu
 
 
 <br>
-
+```JavaScript
+<h1>Hello I am Minul</h1>
+print("Hello I am Minul")
+cout("Hello I am Minul")
+```
 <br>
 
 ![Minul](https://github-readme-stats.vercel.app/api?username=MinulSandith&show_icons=true&theme=dracula)
