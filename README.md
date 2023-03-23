@@ -34,7 +34,7 @@ I am Minul Sandith, who's a young programmer writting codes to build amazing stu
 ---
 
 ### 🆎 Languages  :
-
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -43,6 +43,7 @@ I am Minul Sandith, who's a young programmer writting codes to build amazing stu
   </div>
   
 ### 🛠️ Tools
+<br>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
@@ -52,22 +53,6 @@ I am Minul Sandith, who's a young programmer writting codes to build amazing stu
 
 
 <br>
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Ruby&logoColor=white&color=f21279)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=python&logoColor=white&color=356a97)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=e9db4c)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=javascript&logoColor=white&color=e9db4c)
-
-<br>
-
-***I'm using ...***
-
-
-<img width="50px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
-
-***My status ...***
-
- ##### I'm currently learning about AI modules
 
 <br>
 
