@@ -23,10 +23,11 @@
 
 ***My status...***
 
- ### I'm currently learning about AI modules
+ ###### I'm currently learning about AI modules
 
 <br>
-[![Minul](https://github-readme-stats.vercel.app/api?username=MinulSandith&show_icons=true&theme=dracula)](https://github.com/MinulSandith)
+
+![Minul](https://github-readme-stats.vercel.app/api?username=MinulSandith&show_icons=true&theme=dracula)](https://github.com/MinulSandith)
 
 
 ```JavaScript
