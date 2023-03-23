@@ -15,8 +15,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  
 </h1>
-
-<p1 align="center">I am Minul Sandith, a young programmer who's trying to do something outside of the box.</p1>
+<div align= "center">
+<p1 align="center">I am Minul Sandith, a young programmer who's trying to do something outside of the box.</p1></div>
 <br>
 <br>
 
