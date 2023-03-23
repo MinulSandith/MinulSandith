@@ -26,12 +26,15 @@
 ---
 
 <br>
+
 ```JavaScript
 <h1>Hello I am Minul</h1>
 print("Hello I am Minul")
 cout("Hello I am Minul")
 ```
 <br>
+
+---
 
 ### 👨‍💻: About Me :
 I am Minul Sandith, who's a young programmer writting codes to build amazing stuff.
@@ -50,6 +53,8 @@ I am Minul Sandith, who's a young programmer writting codes to build amazing stu
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   </div>
+  
+---
   
 ### 🛠️ Tools
 <br>
