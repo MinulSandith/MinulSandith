@@ -19,9 +19,8 @@
 
 
 <img width="50px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
-<br>
 
-***My status...***
+***My status ...***
 
  ##### I'm currently learning about AI modules
 
