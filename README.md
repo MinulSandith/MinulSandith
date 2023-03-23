@@ -46,8 +46,7 @@ I am Minul Sandith, who's a young programmer writting codes to build amazing stu
 <br>
   <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pyinstaller/pyinstaller-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>
 </div>
 
 
@@ -56,7 +55,7 @@ I am Minul Sandith, who's a young programmer writting codes to build amazing stu
 
 <br>
 
-![Minul](https://github-readme-stats.vercel.app/api?username=MinulSandith&show_icons=true&theme=dracula)](https://github.com/MinulSandith)
+![Minul](https://github-readme-stats.vercel.app/api?username=MinulSandith&show_icons=true&theme=dracula)
 
 
 ```JavaScript
