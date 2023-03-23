@@ -13,11 +13,10 @@
 <h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  <br>
-  I'm Minul Sandith
+ 
 </h1>
-# Hey, there! 🚀
-**I am Minul Sandith, a young programmer who's trying to do something outside of the box.**
+
+<p1 align="center">I am Minul Sandith, a young programmer who's trying to do something outside of the box.</p1>
 <br>
 <br>
 
