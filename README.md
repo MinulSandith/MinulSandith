@@ -26,7 +26,6 @@
 ---
 
 <br>
-
 ```JavaScript
 <h1>Hello I am Minul</h1>
 print("Hello I am Minul")
