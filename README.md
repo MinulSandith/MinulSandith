@@ -10,9 +10,11 @@
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=MinulSandith&style=flat-square&color=blue" alt=""/>
 </div>
-<h1>
+<h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <br>
+  I'm Minul Sandith
 </h1>
 # Hey, there! 🚀
 **I am Minul Sandith, a young programmer who's trying to do something outside of the box.**
