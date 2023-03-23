@@ -22,7 +22,17 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ---
+
+<br>
+
+```JavaScript
+<h1>Hello I am Minul</h1>
+print("Hello I am Minul")
+cout("Hello I am Minul")
+```
+<br>
 
 ### 👨‍💻: About Me :
 I am Minul Sandith, who's a young programmer writting codes to build amazing stuff.
@@ -57,12 +67,8 @@ I am Minul Sandith, who's a young programmer writting codes to build amazing stu
 
 ![Minul](https://github-readme-stats.vercel.app/api?username=MinulSandith&show_icons=true&theme=dracula)
 
+<br>
 
-```JavaScript
-<h1>Hello I am Minul</h1>
-print("Hello I am Minul")
-cout("Hello I am Minul")
-```
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MinulSandith&theme=dracula)](https://git.io/streak-stats)
 
