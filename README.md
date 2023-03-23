@@ -22,7 +22,24 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<br>
+---
+
+### 👨‍💻: About Me :
+I am Minul Sandith, who's a young programmer writting codes to build amazing stuff.
+
+- 👦 I'm writting codes
+- 🔭 Exploring new fields 
+- 📘 Learning about Artificial Intelligence
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html/html-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css/css-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+</div>
 
 ***I'm good at ,***
 
