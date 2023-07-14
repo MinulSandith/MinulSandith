@@ -64,9 +64,7 @@ I am Minul Sandith, who's a young programmer writting codes to build amazing stu
 
 <br>
 
-![Minul](https://github-readme-stats.vercel.app/api?username=MinulSandith&show_icons=true&theme=dracula)
 
-<br>
 
 ```JavaScript
 <h1>Hello I am Minul</h1>
